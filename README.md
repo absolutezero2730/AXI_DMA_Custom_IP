@@ -15,3 +15,5 @@ Transfer data from DDR memory to AXIS asynchronous FIFO and back through AXI DMA
 Block diagram (Compatible with the above two Modes)：
 
 <img src="https://github.com/absolutezero2730/AXI_DMA_Custom_IP/blob/master/picture/Design%20Overview.png" width="80%" height="80%">
+
+The AXI-Streaming interface is important for designs that need to process a stream of data, such as samples coming from an ADC
